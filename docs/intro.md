@@ -3,6 +3,8 @@ sidebar_position: 1
 ---
 
 # Introduction
+![seneca_quote](/img/seneca_menlearn.png)
+
 
 Hello and welcome to my website! My name is Hoang, and I am a senior software engineer with a passion for Python.
 
