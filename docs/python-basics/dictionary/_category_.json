@@ -1,0 +1,8 @@
+{
+  "label": "Dictionary",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn to use Python's dictionary."
+  }
+}
