@@ -23,7 +23,7 @@ export default function CodeBlock({ children: rawChildren, ...props }) {
   // relevant styles.
   const isBrowser = useIsBrowser();
   const children = maybeStringifyChildren(rawChildren);
-  if (props.className === 'language-python' && props.enablePy) {
+  if (props.className === 'language-python' && props.enablePythonEditor) {
     return <CodeEditor code={children} />;
   } else {
     const CodeBlockComp =

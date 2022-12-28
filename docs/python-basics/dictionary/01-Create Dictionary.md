@@ -13,7 +13,7 @@ print(a)
 
 Test enable
 
-```python enablePy
+```python enablePythonEditor
 a = {1: 'a', 2: 'b'}
 print(a)
 ```
