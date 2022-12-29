@@ -36,7 +36,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          hideable: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -59,6 +58,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       navbar: {
         title: 'PyBunchaca',
         logo: {
