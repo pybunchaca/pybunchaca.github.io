@@ -6,7 +6,7 @@ sidebar_position: 1
 ![seneca_quote](/img/seneca_menlearn.png)
 
 
-Hello and welcome to my website! My name is Hoang, and I am a senior software engineer with a passion for Python.
+Hello and welcome to my website! I am a senior software engineer with a passion for Python.
 
 On this website, I aim to provide resources for anyone looking to learn Python and apply it to a wide range of tasks, including algorithms, data structures, automation, finance, image processing, computer vision, artificial intelligence, and machine learning.
 
