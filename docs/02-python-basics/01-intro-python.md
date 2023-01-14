@@ -1,3 +1,8 @@
+---
+label: Introduction to Python
+sidebar_position: 1
+---
+
 # Introduction to Python and Setting up a Development Environment
 
 Python is a powerful, high-level programming language that is widely used in a variety of fields, including web development, data science, and machine learning. Its simple syntax and easy-to-use libraries make it a great choice for beginners.
