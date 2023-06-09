@@ -28,6 +28,8 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 This question asks about the length of a substring given conditions. We can think of it like the length of a sub-array inside an array. You can imagine there is a **sliding window** moving around the array and we need to calculate results based on some special conditions.
 
+**Note**: the special case is that when we see a duplicate that inside the window (meaning the index of the duplicate is greater than `left_pointer`), then `left_pointer = seen_chars[current_char] + 1`
+
 ### Solution
 
 [Reference](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/347818/python3-sliding-window-o-n-with-explanation/)
