@@ -4,7 +4,7 @@
 
 Given a string, find the length of the **longest substring** without repeating
 
-Example 1:
+### Example:
 
 ```
 Input: "abcabcbb"
@@ -12,9 +12,11 @@ Output: 3
 Explanation: The answer is "abc", with the length of 3.
 ```
 
-Reason: this question asks about length of a substring. We can think of it like the length of a sub-array inside an array. You can imagine there is a **sliding window** moving around the array and with some special conditions, we return some results.
+### Reason:
 
-Solution:
+This question asks about the length of a substring given conditions. We can think of it like the length of a sub-array inside an array. You can imagine there is a **sliding window** moving around the array and we need to calculate results based on some special conditions.
+
+### Solution:
 
 ```python
 def length_longest_substrig(input_str: str) -> int:
