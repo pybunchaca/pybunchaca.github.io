@@ -27,7 +27,7 @@ Output: true
 
 ### Reason
 
-Loop through the array
+Loop through the array, have a set to contain unique numbers, check the current number is inside the set or not.
 
 ### Solution
 
