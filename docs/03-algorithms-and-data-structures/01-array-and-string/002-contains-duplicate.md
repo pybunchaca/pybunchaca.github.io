@@ -2,7 +2,7 @@
 
 [Leetcode](https://leetcode.com/problems/contains-duplicate/)
 
-### Examples
+### Description
 
 Example 1:
 
