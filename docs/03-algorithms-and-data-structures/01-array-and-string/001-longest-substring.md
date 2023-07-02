@@ -1,3 +1,7 @@
+---
+tags: [string]
+---
+
 # Longest Substring
 
 ## Longest Substring Without Repeating Characters
