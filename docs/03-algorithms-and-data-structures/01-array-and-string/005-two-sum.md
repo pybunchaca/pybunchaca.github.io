@@ -57,10 +57,18 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 
 ### Reason
 
+1. Using two pointers
+
 - An algorithm that is less than O(n2): we can use two pointers
 - Sort the array first
 - Then loop left and right pointer
 - Note: if the right pointer is larger than the target, we move the right
+
+2. Using a dictionary
+
+- A dictionary to keep track of num_to_index
+- Loop through each num
+- Calculate complement, if complement already in the dict --> return current index and the complement's index
 
 ### Solution
 
