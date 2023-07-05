@@ -61,7 +61,7 @@ The tests are generated such that there is exactly one solution.
 
 ```python
 class Solution:
-    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+    def twoSumII(self, numbers: List[int], target: int) -> List[int]:
         left_pointer = 0
         right_pointer = len(numbers)-1
         while left_pointer < right_pointer:
